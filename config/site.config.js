@@ -58,12 +58,6 @@ module.exports = {
       link: 'https://www.facebook.com/tnhantl/',
     },
   ],
-    links: [
-    {
-      name: 'Telegram',
-      link: 'https://t.me/tnhantl/',
-    },
-  ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
   // https://day.js.org/docs/en/display/format for detailed specification. The default value is ISO 8601 full datetime
